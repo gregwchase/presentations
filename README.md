@@ -13,4 +13,7 @@ Additionally, each file has a number following the file name. This is read as "Y
 
 ## Presentations, 2017
 
-* [Analyze Boulder 55](https://github.com/gregwchase/presentations/blob/master/2017/Analyze%20Boulder%2055%20Presentation%20(20171101) - Presentation given on EyeNet, my Galvanize capstone. EyeNet is a convolutional neural network designed to detect diabetic retinopathy.
+| Presentation   |      Topic      |  Description | Date |
+|----------|:-------------:|:------:|:------:|
+|[Galvanize Capstone](http://bit.ly/2iwVVUb)|[EyeNet](https://github.com/gregwchase/dsi-capstone)|Present diabetic retinopathy classifier| October 10, 2017
+| [Analyze Boulder 55](http://bit.ly/2iwVVUb) | [EyeNet](https://github.com/gregwchase/dsi-capstone) | Discussion of diabetic retinopathy classifier | November 1, 2017|
