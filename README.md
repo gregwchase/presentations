@@ -10,7 +10,7 @@ Additionally, each file has a number following the file name. This is read as "Y
 
 | Presentation   |      Topic      |  Description | Presentation Date |
 |----------|:-------------:|:------:|:------:|
-| [DSST - Linear Regression](https://github.com/gregwchase/linear-regression-lesson) | [Intro To Data Science](https://github.com/gregwchase/linear-regression-lesson) | Presentation on data science and linear regression | January 17, 2018|
+| [DSST - Linear Regression](https://github.com/gregwchase/linear-regression-lesson) | [Data Science 101](https://github.com/gregwchase/linear-regression-lesson) | Presentation on data science and linear regression | January 17, 2018|
 
 
 ## Presentations, 2017
