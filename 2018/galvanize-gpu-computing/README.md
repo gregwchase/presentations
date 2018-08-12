@@ -7,12 +7,14 @@ This presentation was given to the Galvanize Data Science Immersive cohort on Au
 
 ## Resources
 
-[pyGDF - Python GPU DataFrame Library](https://github.com/gpuopenanalytics/pygdf)
+* [GOAI - GPU Open Analytics Initiative](http://gpuopenanalytics.com/#/HOME)
 
-[CuPy - NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
+* [pyGDF - Python GPU DataFrame Library](https://github.com/gpuopenanalytics/pygdf)
 
-[Spotlight - Deep Recommender Models Using PyTorch](https://github.com/maciejkula/spotlight)
+* [CuPy - NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
 
-[PyGraphistry - Network Graph Visualizations](https://github.com/graphistry/pygraphistry)
+* [Spotlight - Deep Recommender Models Using PyTorch](https://github.com/maciejkula/spotlight)
 
-[H2O4GPU - SciKit-Learn API for GPU's](https://github.com/h2oai/h2o4gpu)
+* [PyGraphistry - Network Graph Visualizations](https://github.com/graphistry/pygraphistry)
+
+* [H2O4GPU - SciKit-Learn API for GPU's](https://github.com/h2oai/h2o4gpu)
