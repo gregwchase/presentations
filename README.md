@@ -6,12 +6,17 @@ This repository is a showcase of past presentations. The folder structure is bel
 
 Additionally, each file has a number following the file name. This is read as "YYYYMMDD". As an example, a file with the number "20170101" was presented on January 1st, 2017.
 
+## Presentations, 2019
+
+| Presentation   |      Topic      |  Description | Presentation Date |
+|----------|:-------------:|:------:|:------:|
+| Galvanize - AWS | Amazon Web Services | Presentation on AWS services and best practices | July 18, 2019|
+
 ## Presentations, 2018
 
 | Presentation   |      Topic      |  Description | Presentation Date |
 |----------|:-------------:|:------:|:------:|
 | [DSST - Linear Regression](https://github.com/gregwchase/linear-regression-lesson) | [Data Science 101](https://github.com/gregwchase/linear-regression-lesson) | Presentation on data science and linear regression | January 17, 2018|
-
 
 ## Presentations, 2017
 
